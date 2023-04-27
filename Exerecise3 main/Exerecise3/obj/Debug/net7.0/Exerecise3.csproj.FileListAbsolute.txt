@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\bin\Debug\net7.0\Exerecise3.exe
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\bin\Debug\net7.0\Exerecise3.deps.json
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\bin\Debug\net7.0\Exerecise3.runtimeconfig.json
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\bin\Debug\net7.0\Exerecise3.dll
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\bin\Debug\net7.0\Exerecise3.pdb
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.dll
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\refint\Exerecise3.dll
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.pdb
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\Exerecise3.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Acadamy\Exerecise3\Exerecise3\obj\Debug\net7.0\ref\Exerecise3.dll
